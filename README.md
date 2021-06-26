@@ -1,7 +1,7 @@
-### laravel Restfull API
+## laravel Restfull API
 In this Restfull API project were created, users with posts and comments.
 
-## Capabilities of API
+### Capabilities of API
 - CRUD operations with Users
 - CRUD operations with Posts
 - CRUD operations with Comments
@@ -14,5 +14,5 @@ In this Restfull API project were created, users with posts and comments.
 - Can get all user's comments by id
 - Can get all post's comments by id
 
-## Sanctum
-- This API uses Sanctum authentication system 
+### Sanctum
++ This API uses Sanctum authentication system 
